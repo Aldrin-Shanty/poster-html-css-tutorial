@@ -57,7 +57,7 @@ For any inquiries or feedback, please contact:
 
 - Name: Aldrin Shanty
 - Email: aldrinshanty22@gmail.com
-- GitHub: [aldrin-shanty](https://github.com/Aldrin-Shanty)
+- GitHub: [Aldrin-Shanty](https://github.com/Aldrin-Shanty)
 
 ---
 
