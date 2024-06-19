@@ -1,0 +1,29 @@
+body{
+    background-color: #FFFFFF;
+}
+
+header{
+    position: fixed;
+    width: 81.01171875%;
+    height: 8.518518519%;
+    top: 64px;
+    left: 120px;
+
+}
+
+.Logo{
+    position: fixed;
+    width: 106.59px;
+    height: 22px;
+    top: 64px;
+    left: 120px;
+}
+
+nav{
+    display:flex ;
+    position: fixed;
+    left: 883.7px;
+    top: 64px;
+    width: 273.25px;
+    height: 23px;
+}
